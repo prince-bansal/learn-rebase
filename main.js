@@ -23,3 +23,4 @@ master 4
 
 rebase change 1
 rebase change 2
+rebase change 3
